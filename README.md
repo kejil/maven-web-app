@@ -1,2 +1,2 @@
 # maven-web-app
-#swecond-project
+#second-project
